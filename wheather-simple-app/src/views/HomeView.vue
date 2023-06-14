@@ -3,5 +3,6 @@
 
 <template>
   <main>
+    {{ tét }}
   </main>
 </template>
